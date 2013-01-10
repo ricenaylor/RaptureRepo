@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>com.incapture</groupId>
+  <artifactId>CreditAnalytics</artifactId>
+  <versioning>
+    <release>1.6.2-DEV</release>
+    <versions>
+      <version>1.6-DEV</version>
+      <version>1.6.1-DEV</version>
+      <version>1.6.2-DEV</version>
+    </versions>
+    <lastUpdated>20120817152418</lastUpdated>
+  </versioning>
+</metadata>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata modelVersion="1.1.0">
+  <groupId>org.jquantlib</groupId>
+  <artifactId>jquantlib</artifactId>
+  <version>0.2.5-SNAPSHOT</version>
+  <versioning>
+    <snapshot>
+      <timestamp>20120314.034228</timestamp>
+      <buildNumber>2</buildNumber>
+    </snapshot>
+    <lastUpdated>20120314034228</lastUpdated>
+    <snapshotVersions>
+      <snapshotVersion>
+        <extension>jar</extension>
+        <value>0.2.5-20120314.034228-2</value>
+        <updated>20120314034228</updated>
+      </snapshotVersion>
+      <snapshotVersion>
+        <extension>pom</extension>
+        <value>0.2.5-20120314.034228-2</value>
+        <updated>20120314034228</updated>
+      </snapshotVersion>
+      <snapshotVersion>
+        <classifier>sources</classifier>
+        <extension>jar</extension>
+        <value>0.2.5-20120227.030925-1</value>
+        <updated>20120227030925</updated>
+      </snapshotVersion>
+      <snapshotVersion>
+        <classifier>javadoc</classifier>
+        <extension>jar</extension>
+        <value>0.2.5-20120227.030925-1</value>
+        <updated>20120227030925</updated>
+      </snapshotVersion>
+    </snapshotVersions>
+  </versioning>
+</metadata>

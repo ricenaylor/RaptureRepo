@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>com.opengamma</groupId>
+  <artifactId>og-analytics</artifactId>
+  <versioning>
+    <release>1.1-DEV</release>
+    <versions>
+      <version>1.1-DEV</version>
+    </versions>
+    <lastUpdated>20121031035003</lastUpdated>
+  </versioning>
+</metadata>
