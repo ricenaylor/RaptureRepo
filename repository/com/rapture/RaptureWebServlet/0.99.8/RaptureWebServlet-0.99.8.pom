@@ -13,9 +13,21 @@
       <scope>compile</scope>
     </dependency>
     <dependency>
+      <groupId>com.rapture</groupId>
+      <artifactId>RaptureCore</artifactId>
+      <version>0.99.8</version>
+      <scope>compile</scope>
+    </dependency>
+    <dependency>
       <groupId>joda-time</groupId>
       <artifactId>joda-time</artifactId>
       <version>2.1</version>
+      <scope>compile</scope>
+    </dependency>
+    <dependency>
+      <groupId>com.rapture</groupId>
+      <artifactId>RaptureAddinCore</artifactId>
+      <version>0.99.8</version>
       <scope>compile</scope>
     </dependency>
     <dependency>
@@ -34,12 +46,6 @@
       <groupId>org.apache.httpcomponents</groupId>
       <artifactId>httpcore</artifactId>
       <version>4.2.2</version>
-      <scope>compile</scope>
-    </dependency>
-    <dependency>
-      <groupId>com.rapture</groupId>
-      <artifactId>Reflex</artifactId>
-      <version>0.99.8</version>
       <scope>compile</scope>
     </dependency>
     <dependency>
@@ -97,6 +103,12 @@
       <scope>compile</scope>
     </dependency>
     <dependency>
+      <groupId>com.rapture</groupId>
+      <artifactId>Reflex</artifactId>
+      <version>0.99.8</version>
+      <scope>compile</scope>
+    </dependency>
+    <dependency>
       <groupId>org.apache.httpcomponents</groupId>
       <artifactId>httpclient</artifactId>
       <version>4.2.2</version>
@@ -115,12 +127,6 @@
       <scope>compile</scope>
     </dependency>
     <dependency>
-      <groupId>com.rapture</groupId>
-      <artifactId>RaptureAddinCore</artifactId>
-      <version>0.99.8</version>
-      <scope>compile</scope>
-    </dependency>
-    <dependency>
       <groupId>junit</groupId>
       <artifactId>junit</artifactId>
       <version>4.10</version>
@@ -130,12 +136,6 @@
       <groupId>org.codehaus.jackson</groupId>
       <artifactId>jackson-core-asl</artifactId>
       <version>1.9.2</version>
-      <scope>compile</scope>
-    </dependency>
-    <dependency>
-      <groupId>com.rapture</groupId>
-      <artifactId>RaptureCore</artifactId>
-      <version>0.99.8</version>
       <scope>compile</scope>
     </dependency>
   </dependencies>

@@ -19,6 +19,12 @@
       <scope>compile</scope>
     </dependency>
     <dependency>
+      <groupId>com.rapture</groupId>
+      <artifactId>RaptureAddinCore</artifactId>
+      <version>0.99.8</version>
+      <scope>compile</scope>
+    </dependency>
+    <dependency>
       <groupId>org.slf4j</groupId>
       <artifactId>slf4j-log4j12</artifactId>
       <version>1.6.1</version>
@@ -94,12 +100,6 @@
       <groupId>org.apache.httpcomponents</groupId>
       <artifactId>httpmime</artifactId>
       <version>4.2.2</version>
-      <scope>compile</scope>
-    </dependency>
-    <dependency>
-      <groupId>com.rapture</groupId>
-      <artifactId>RaptureAddinCore</artifactId>
-      <version>0.99.8</version>
       <scope>compile</scope>
     </dependency>
     <dependency>
