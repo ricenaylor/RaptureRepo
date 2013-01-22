@@ -18,5 +18,8 @@
    <feature url="features/com.incapture.Reflex.feature_0.99.9.jar" id="com.incapture.Reflex.feature" version="0.99.9">
       <category name="Rapture"/>
    </feature>
+   <feature url="features/com.incapture.Reflex.feature_1.0.0.0.jar" id="com.incapture.Reflex.feature" version="1.0.0.0">
+      <category name="Rapture"/>
+   </feature>
    <category-def name="Rapture" label="Rapture"/>
 </site>
