@@ -14,12 +14,6 @@
       <scope>compile</scope>
     </dependency>
     <dependency>
-      <groupId>com.rapture</groupId>
-      <artifactId>MongoDb</artifactId>
-      <version>1.0.0-RC3</version>
-      <scope>compile</scope>
-    </dependency>
-    <dependency>
       <groupId>org.eclipse.jetty</groupId>
       <artifactId>jetty-webapp</artifactId>
       <version>8.1.0.RC0</version>
@@ -44,9 +38,21 @@
       <scope>compile</scope>
     </dependency>
     <dependency>
+      <groupId>com.rapture</groupId>
+      <artifactId>RaptureAddinCore</artifactId>
+      <version>1.0.0-RC3</version>
+      <scope>compile</scope>
+    </dependency>
+    <dependency>
       <groupId>org.eclipse.jetty</groupId>
       <artifactId>jetty-servlet</artifactId>
       <version>8.1.0.RC0</version>
+      <scope>compile</scope>
+    </dependency>
+    <dependency>
+      <groupId>com.rapture</groupId>
+      <artifactId>RaptureWebServlet</artifactId>
+      <version>1.0.0-RC3</version>
       <scope>compile</scope>
     </dependency>
     <dependency>
@@ -56,15 +62,15 @@
       <scope>compile</scope>
     </dependency>
     <dependency>
-      <groupId>org.apache.httpcomponents</groupId>
-      <artifactId>httpcore-nio</artifactId>
-      <version>4.2.2</version>
+      <groupId>com.rapture</groupId>
+      <artifactId>Redis</artifactId>
+      <version>1.0.0-RC3</version>
       <scope>compile</scope>
     </dependency>
     <dependency>
-      <groupId>com.rapture</groupId>
-      <artifactId>RaptureAddinCore</artifactId>
-      <version>1.0.0-RC3</version>
+      <groupId>org.apache.httpcomponents</groupId>
+      <artifactId>httpcore-nio</artifactId>
+      <version>4.2.2</version>
       <scope>compile</scope>
     </dependency>
     <dependency>
@@ -80,9 +86,21 @@
       <scope>test</scope>
     </dependency>
     <dependency>
+      <groupId>com.rapture</groupId>
+      <artifactId>RaptureAPI</artifactId>
+      <version>1.0.0-RC3</version>
+      <scope>compile</scope>
+    </dependency>
+    <dependency>
       <groupId>org.glassfish.web</groupId>
       <artifactId>javax.servlet.jsp</artifactId>
       <version>2.2.3</version>
+      <scope>compile</scope>
+    </dependency>
+    <dependency>
+      <groupId>com.rapture</groupId>
+      <artifactId>Reflex</artifactId>
+      <version>1.0.0-RC3</version>
       <scope>compile</scope>
     </dependency>
     <dependency>
@@ -100,18 +118,6 @@
     <dependency>
       <groupId>com.rapture</groupId>
       <artifactId>RaptureCore</artifactId>
-      <version>1.0.0-RC3</version>
-      <scope>compile</scope>
-    </dependency>
-    <dependency>
-      <groupId>com.rapture</groupId>
-      <artifactId>Reflex</artifactId>
-      <version>1.0.0-RC3</version>
-      <scope>compile</scope>
-    </dependency>
-    <dependency>
-      <groupId>com.rapture</groupId>
-      <artifactId>RaptureAPI</artifactId>
       <version>1.0.0-RC3</version>
       <scope>compile</scope>
     </dependency>
@@ -141,13 +147,19 @@
     </dependency>
     <dependency>
       <groupId>com.rapture</groupId>
-      <artifactId>Redis</artifactId>
+      <artifactId>MongoDb</artifactId>
       <version>1.0.0-RC3</version>
       <scope>compile</scope>
     </dependency>
     <dependency>
       <groupId>com.rapture</groupId>
-      <artifactId>RaptureWebServlet</artifactId>
+      <artifactId>RabbitMQ</artifactId>
+      <version>1.0.0-RC3</version>
+      <scope>compile</scope>
+    </dependency>
+    <dependency>
+      <groupId>com.rapture</groupId>
+      <artifactId>LKBondAnalyticsAPI</artifactId>
       <version>1.0.0-RC3</version>
       <scope>compile</scope>
     </dependency>
@@ -164,21 +176,9 @@
       <scope>compile</scope>
     </dependency>
     <dependency>
-      <groupId>com.rapture</groupId>
-      <artifactId>LKBondAnalyticsAPI</artifactId>
-      <version>1.0.0-RC3</version>
-      <scope>compile</scope>
-    </dependency>
-    <dependency>
       <groupId>org.codehaus.jackson</groupId>
       <artifactId>jackson-core-asl</artifactId>
       <version>1.9.2</version>
-      <scope>compile</scope>
-    </dependency>
-    <dependency>
-      <groupId>com.rapture</groupId>
-      <artifactId>RabbitMQ</artifactId>
-      <version>1.0.0-RC3</version>
       <scope>compile</scope>
     </dependency>
   </dependencies>
